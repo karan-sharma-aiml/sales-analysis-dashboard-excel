@@ -1,0 +1,19 @@
+Order ID,Salesperson,City,Product,Quantity,Unit Price,Total Sales,Performance,City Category,Commission Rate,,Commission Amount
+ORD-001,Amit Sharma,Delhi,Laptop,2,45000,90000,High,Metro,0.07,,6300
+ORD-002,Priya Singh,Mumbai,Mobile,5,18000,90000,High,Metro,0.07,,6300
+ORD-003,Rahul Verma,Chennai,Tablet,3,22000,66000,Low,Non-Metro,0.07,,4620
+ORD-004,Neha Gupta,Pune,Laptop,1,45000,45000,Low,Non-Metro,0.05,,2250
+ORD-005,Amit Sharma,Delhi,Mobile,4,18000,72000,Low,Metro,0.07,,5040
+ORD-006,Priya Singh,Mumbai,Laptop,2,45000,90000,High,Metro,0.07,,6300
+ORD-007,Rohit Jain,Jaipur,Tablet,6,22000,132000,High,Non-Metro,0.1,,13200
+ORD-008,Neha Gupta,Pune,Mobile,3,18000,54000,Low,Non-Metro,0.07,,3780
+ORD-009,Rahul Verma,Chennai,Laptop,1,45000,45000,Low,Non-Metro,0.05,,2250
+ORD-010,Rohit Jain,Jaipur,Mobile,2,18000,36000,Low,Non-Metro,0.05,,1800
+,,,Cell,Q.No,Label,Answer,,,,,
+,,,F13,Q2,Grand Tatl,720000,,,,,
+,,,F14,Q3,Average sales,72000,,,,,
+,,,F15,Q4,Count,10,,,,,
+,,,F16,Q5,Minimum Unit Price,18000,,,,,
+,,,F17,Q6,Maximum Unit price,45000,,,,,
+,,,F18,Q7,Highest Total,132000,,,,,
+,,,F19,Q6,Order-ID,ORD-007,,,,,
